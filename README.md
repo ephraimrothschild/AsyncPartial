@@ -12,6 +12,8 @@ See doc in wiki https://github.com/apneadiving/AsyncPartial/wiki
 
 ##How to use:
 
+    gem 'async_partial', :git => 'https://github.com/ephraimrothschild/AsyncPartial.git'
+
 ###Basic
 In your view:
 
