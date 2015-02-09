@@ -1,4 +1,4 @@
-= RenderAsync
+# RenderAsync
 
 See doc in wiki https://github.com/apneadiving/AsyncPartial/wiki
 
